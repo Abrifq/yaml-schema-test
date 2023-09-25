@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=./schema.yaml
+
+productId: 1337
+productName: Surely, having no quotes around my string will not have ANY consequences
+price: 13.37

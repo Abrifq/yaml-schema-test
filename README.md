@@ -9,12 +9,10 @@ Seriously, why not? We parse YAML into JSON objects anyway.
 Use this fork of v8r: [Abrifq's fork of v8r](https://github.com/Abrifq/v8r)
 
 ```bash
-npx github:Abrifq/v8r usage.yaml --schema schema.yaml
+npx github:Abrifq/v8r example-product.yaml --schema schema.yaml
 ```
 
 ## Disclaimers and references
 
-I'll be using [json-schema.org](https://json-schema.org)'s tutorial schema, 
+I'm using an edited version of [json-schema.org](https://json-schema.org)'s [tutorial schema](http://json-schema.org/learn/getting-started-step-by-step.html),
 converting with an online YAML-to-JSON converter from [transform.tools](https://transform.tools/json-to-yaml)
-
-None of those tools are subject to the license.
