@@ -39,7 +39,7 @@ properties:
       - height
   warehouseLocation:
     description: Coordinates of the warehouse where the product is located.
-    $ref: ./reference-sub-schema.json
+    $ref: ./sub-schema.yaml
 required:
   - productId
   - productName
