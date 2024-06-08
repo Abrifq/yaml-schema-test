@@ -7,10 +7,6 @@ Seriously, why not? We parse YAML into JSON objects anyway.
 ## Testing
 
 ~~Use this fork of v8r: [Abrifq's fork of v8r](https://github.com/Abrifq/v8r)~~
-
-~~```bash~~
-~~npx github:Abrifq/v8r example-product.yaml --schema schema.yaml~~
-~~```~~
 The PR chris48s/v8r/#364 has merged, try it with
 
 ```bash
